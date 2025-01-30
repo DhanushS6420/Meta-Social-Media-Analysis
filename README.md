@@ -32,5 +32,9 @@ Analyze Instagram user data to develop strategic marketing initiatives that boos
 - **Excel-** Data Visualisation 
 - **Data Analysis–** Identifying engagement patterns
 
-
+- **Name:** Dhanush S
+- **Email:** dhanushs6420@gmail.com
+- **LinkedIn:** [Dhanush S](https://www.linkedin.com/in/dhanush-s-6050b5180/)
+  
+## Thank you for your interest in this Meta Social Media Analysis project!
 
